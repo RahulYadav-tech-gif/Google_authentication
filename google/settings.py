@@ -139,5 +139,5 @@ LOGIN_REDIRECT_URL = 'home'
 LOGOUT_URL = 'logout'
 LOGOUT_REDIRECT_URL = 'login'
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '209072103320-87utloa37kbsltnpo9484m1hc1k9lck2.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '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'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '2090###############.apps.googleusercontent.com'
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'GOCSPX-############X_hx'
